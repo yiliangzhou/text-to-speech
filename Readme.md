@@ -1,4 +1,4 @@
-# text-to-speech
+# Text to Speech
 By <victor.yiliangzhou@gmail.com></code>
 
 Utilize google translate to read text for you in English or Chinese.
